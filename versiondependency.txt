@@ -1,0 +1,5 @@
+Versiones de dependencias dentro del entorno virtual 
+
+python 3.12.1
+pip 23.3.2
+django 5.0.1
