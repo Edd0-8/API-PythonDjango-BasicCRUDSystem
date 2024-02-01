@@ -1,5 +1,8 @@
-<h1>Tasks</h1>
+{% extends 'layouts/base.html' %}
 
+{% block content %}
+
+<h1>Tasks</h1>
 <!-- Validaciones Jinja -->
 {% for task in tasks %}
 
@@ -20,3 +23,5 @@
 </div>
 
 {% endfor %}
+
+{% endblock %}
