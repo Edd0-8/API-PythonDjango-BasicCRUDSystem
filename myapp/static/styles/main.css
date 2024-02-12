@@ -25,3 +25,23 @@ body{
 .navbar ul li a:hover{
     color: aquamarine;
 }
+
+.container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px 0;
+}
+
+.card{
+    background: whitesmoke;
+    color: black;
+    padding: 10px;
+    margin-bottom: 2px;
+}
+
+.input{
+    background: wheat;
+    padding: 10px;
+    text-align: center;
+    display: block;
+}
