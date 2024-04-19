@@ -8,8 +8,9 @@
 `pip install virtualenv`
 #### *Para verificar la version de virtualenv en tu maquina: 
 `virtualenv --version`
-#### *Para crear un entorno virtual en el proyecto  
+#### *Para crear un entorno virtual en el proyecto (recuerda hacerlo dentro del proyecto)
 `virtualenv nombrevirtualenv`
+# ![image](https://github.com/Edd0-8/API-PythonDjango-BasicCRUDSystem/assets/122135736/c4038244-c1a5-4a5c-8d49-dcd278555982)
 #### *Para activar el virtualenv
 `.\nombrevirtualenv\Scripts\activate.bat`
 #### *Si se activa de forma exitosa, se vera el nombre de tu virtualenv en el terminal:
