@@ -15,7 +15,7 @@ def hello(request, username):
     return HttpResponse("<h2>Hello %s</h2>" % username)
 
 def about(request):
-    username = 'Eddo'
+    username = 'TuUserName'
     return render(request, 'about.html', {
         'username': username
     })
